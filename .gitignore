@@ -12,7 +12,7 @@ logs/
 dbt_packages/
 .user.yml
 
-# Python / os
+# Python / 05
 __pycache__/
 *.pyc
 .DS_Store
